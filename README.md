@@ -1,0 +1,2 @@
+# requiredapp
+Jenkins, docker, azurecli,
